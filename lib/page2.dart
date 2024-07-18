@@ -22,7 +22,6 @@ class Page2State extends State<Page2> {
                         context,
                         MaterialPageRoute(
                           builder: (context) => MyHomePage(
-                            title: 'asd',
                           ),
                         ));
                   },
